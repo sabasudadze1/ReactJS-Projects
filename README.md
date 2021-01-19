@@ -1,1 +1,1 @@
-ReactJS to-do project with progress bar
+ReactJS to-do APP with progress bar
