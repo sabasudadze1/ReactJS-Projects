@@ -1,1 +1,1 @@
-React To do აპლიკაცია
+ReactJS to-do project with progress bar
